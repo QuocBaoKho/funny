@@ -1,0 +1,15 @@
+E:\VS\CSharp1\CSharp1\bin\Debug\net6.0\CSharp1.exe
+E:\VS\CSharp1\CSharp1\bin\Debug\net6.0\CSharp1.deps.json
+E:\VS\CSharp1\CSharp1\bin\Debug\net6.0\CSharp1.runtimeconfig.json
+E:\VS\CSharp1\CSharp1\bin\Debug\net6.0\CSharp1.dll
+E:\VS\CSharp1\CSharp1\bin\Debug\net6.0\CSharp1.pdb
+E:\VS\CSharp1\CSharp1\obj\Debug\net6.0\CSharp1.csproj.AssemblyReference.cache
+E:\VS\CSharp1\CSharp1\obj\Debug\net6.0\CSharp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS\CSharp1\CSharp1\obj\Debug\net6.0\CSharp1.AssemblyInfoInputs.cache
+E:\VS\CSharp1\CSharp1\obj\Debug\net6.0\CSharp1.AssemblyInfo.cs
+E:\VS\CSharp1\CSharp1\obj\Debug\net6.0\CSharp1.csproj.CoreCompileInputs.cache
+E:\VS\CSharp1\CSharp1\obj\Debug\net6.0\CSharp1.dll
+E:\VS\CSharp1\CSharp1\obj\Debug\net6.0\refint\CSharp1.dll
+E:\VS\CSharp1\CSharp1\obj\Debug\net6.0\CSharp1.pdb
+E:\VS\CSharp1\CSharp1\obj\Debug\net6.0\CSharp1.genruntimeconfig.cache
+E:\VS\CSharp1\CSharp1\obj\Debug\net6.0\ref\CSharp1.dll
