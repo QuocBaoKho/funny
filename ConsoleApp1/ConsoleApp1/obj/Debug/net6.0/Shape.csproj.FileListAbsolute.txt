@@ -1,0 +1,15 @@
+D:\VS\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Shape.csproj.AssemblyReference.cache
+D:\VS\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Shape.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Shape.AssemblyInfoInputs.cache
+D:\VS\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Shape.AssemblyInfo.cs
+D:\VS\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Shape.csproj.CoreCompileInputs.cache
+D:\VS\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Shape.exe
+D:\VS\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Shape.deps.json
+D:\VS\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Shape.runtimeconfig.json
+D:\VS\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Shape.dll
+D:\VS\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\Shape.pdb
+D:\VS\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Shape.dll
+D:\VS\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\Shape.dll
+D:\VS\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Shape.pdb
+D:\VS\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\Shape.genruntimeconfig.cache
+D:\VS\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\Shape.dll
