@@ -1,0 +1,8 @@
+E:\VS\NameTransformation\NameTransformation\bin\Debug\NameTransformation.exe.config
+E:\VS\NameTransformation\NameTransformation\bin\Debug\NameTransformation.exe
+E:\VS\NameTransformation\NameTransformation\bin\Debug\NameTransformation.pdb
+E:\VS\NameTransformation\NameTransformation\obj\Debug\NameTransformation.csproj.AssemblyReference.cache
+E:\VS\NameTransformation\NameTransformation\obj\Debug\NameTransformation.csproj.SuggestedBindingRedirects.cache
+E:\VS\NameTransformation\NameTransformation\obj\Debug\NameTransformation.csproj.CoreCompileInputs.cache
+E:\VS\NameTransformation\NameTransformation\obj\Debug\NameTransformation.exe
+E:\VS\NameTransformation\NameTransformation\obj\Debug\NameTransformation.pdb

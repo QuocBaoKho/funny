@@ -1,0 +1,15 @@
+E:\VS\MonthYear\MonthYear\bin\Debug\net6.0\MonthYear.exe
+E:\VS\MonthYear\MonthYear\bin\Debug\net6.0\MonthYear.deps.json
+E:\VS\MonthYear\MonthYear\bin\Debug\net6.0\MonthYear.runtimeconfig.json
+E:\VS\MonthYear\MonthYear\bin\Debug\net6.0\MonthYear.dll
+E:\VS\MonthYear\MonthYear\bin\Debug\net6.0\MonthYear.pdb
+E:\VS\MonthYear\MonthYear\obj\Debug\net6.0\MonthYear.csproj.AssemblyReference.cache
+E:\VS\MonthYear\MonthYear\obj\Debug\net6.0\MonthYear.GeneratedMSBuildEditorConfig.editorconfig
+E:\VS\MonthYear\MonthYear\obj\Debug\net6.0\MonthYear.AssemblyInfoInputs.cache
+E:\VS\MonthYear\MonthYear\obj\Debug\net6.0\MonthYear.AssemblyInfo.cs
+E:\VS\MonthYear\MonthYear\obj\Debug\net6.0\MonthYear.csproj.CoreCompileInputs.cache
+E:\VS\MonthYear\MonthYear\obj\Debug\net6.0\MonthYear.dll
+E:\VS\MonthYear\MonthYear\obj\Debug\net6.0\refint\MonthYear.dll
+E:\VS\MonthYear\MonthYear\obj\Debug\net6.0\MonthYear.pdb
+E:\VS\MonthYear\MonthYear\obj\Debug\net6.0\MonthYear.genruntimeconfig.cache
+E:\VS\MonthYear\MonthYear\obj\Debug\net6.0\ref\MonthYear.dll
